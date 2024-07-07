@@ -28,6 +28,15 @@ console.log(Math.ceil(4.2))// this will give the 5 as output agar 4 se thora bhi
 console.log(Math.floor(4.2))// yeh kam value dega matlab ki four hi 
 // note that : ceil,floor hai wo round off ka controller hai 
 
+console.log(Math.random())// this will give the different values always It will B/W 0 and 1 only 
+console.log(Math.random()*10);
+console.log(Math.floor(Math.random()*10+1))
+
+const min = 10
+const max = 20 
+
+console.log(Math.floor(Math.random() * (max - min +1)) + min)
+
 console.log(`I am the controller of the Round of value of the ceil and the floor`)
 console.log(`I am the nearest to the 5--> ${Math.ceil(4.2)} and I am the nearest value of the four--> ${Math.floor(4.2)}`)
 
