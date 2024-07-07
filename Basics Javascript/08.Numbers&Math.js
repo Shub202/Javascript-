@@ -8,8 +8,4 @@ console.log(balance);
 
 //string 
 console.log(balance.toString());
-console.log(balance.toString().length);
-var a= 12
-var b= 8
-let result= a+b
-console.log(result)
+console.log(balance.toString().length)
