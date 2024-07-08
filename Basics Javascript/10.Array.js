@@ -37,5 +37,5 @@ console.log("C",myArr);
 console.log(myn2);
 
 //Difference between Slice and Splice
-//************For the Difference run the code**************// 
+//For the Difference run the code 
 
